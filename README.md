@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# Waters_J_Crushing_Bugs
-=======
 # Drag and Drop Bug Fix
 
 This program is a simple puzzle game with some bugs that will be patched
@@ -23,4 +20,3 @@ Coded by Jack Waters
 
 ## License
 MIT
->>>>>>> Stashed changes
