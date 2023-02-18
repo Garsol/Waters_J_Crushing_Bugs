@@ -1,6 +1,6 @@
-# Drag and Drop
+# Drag and Drop Bug Fix
 
-TODO: Write a project description
+This program is a simple puzzle game with some bugs that will be patched
 
 ## Contributing
 
@@ -10,9 +10,13 @@ TODO: Write a project description
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
+## History
+
+Version 1.1
+
 ## Credits
 
-TODO: Write credits
+Coded by Jack Waters
 
 ## License
 MIT
