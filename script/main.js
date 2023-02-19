@@ -23,7 +23,9 @@ function changeBGImage() {
 	// inside the braces - run that little bit of code. In this case it's just pulling the ID of the
 	// button we clicked on and putting it at the end of the image name (0, 1, 2, 3)
 	// and updating the background-image style of the puzzle board element.
-
+	if (puzzleBoard.style.backgroundImage =  'url(images/backGround${this.id}.jpg)') {
+		puzzlePieces.style.backgroundImage =  'url(image/topleft${this.id}.jpg)' ;
+	}
 	// bug fix #2 should go here. it's at most 3 lines of JS code.
 	puzzleBoard.style.backgroundImage = `url(images/backGround${this.id}.jpg)`;
 }
